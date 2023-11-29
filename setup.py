@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='NameVariablePrint',
-    version='1.0.0.2',
-    description='Print variable name and value when you debugging',
+    version='1.0.0.3',
+    long_description='Print variable name and value when you debugging',
     author='Shawn_Park',
     author_email='psh990626@gmail.com',
     url='https://github.com/sanghyeon1/nvprint',
