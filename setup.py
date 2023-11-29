@@ -4,6 +4,7 @@ setup(
     name='NameVariablePrint',
     version='1.0.0.3',
     long_description='Print variable name and value when you debugging',
+    long_description_content_type="text/markdown",
     author='Shawn_Park',
     author_email='psh990626@gmail.com',
     url='https://github.com/sanghyeon1/nvprint',
